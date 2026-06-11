@@ -8,8 +8,8 @@
 ---
 
 🚀 Full-Stack Software Engineer passionate about building products that solve real problems.
-💻 Skilled in Python, Django, React, Next.js, PHP, SQL, and AWS — I build everything from sleek frontends to robust backends and cloud deployments.
-🌍 Since 2022, I've shipped e-commerce platforms, fintech apps, trading portfolios, event management systems, and custom business websites — always focused on clean code and great user experience.
+💻 Skilled in Python, Django, React, Next.js, PHP, SQL, and AWS. I build everything from sleek frontends to robust backends and cloud deployments.
+🌍 Since 2022, I've shipped e-commerce platforms, fintech apps, trading portfolios, event management systems, and custom business websites always focused on clean code and great user experience.
 🔧 Currently building Evenova — a professional event ticketing & management platform for Nigeria.
 ⚡ Open to freelance projects and collaborations. If you have an idea, let's build it.
 📌 Core values: Simplicity • Quality • Delivery
